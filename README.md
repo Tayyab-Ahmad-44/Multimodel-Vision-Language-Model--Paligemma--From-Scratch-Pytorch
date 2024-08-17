@@ -35,7 +35,6 @@ This repository provides an implementation of a multimodal vision-language model
    ```bash
    pip install -r requirements.txt
 
-
 ## Usage
 
 1. **Prepare Your Image:**
